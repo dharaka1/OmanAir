@@ -70,7 +70,7 @@ public class StepClass extends BaseClass {
 		ps.ScrollClickOnPasangers();
 		ps.NoOfpAdultasangers();
 		ps.NoOfChildreanpasangers();
-		driver.quit();
+		quit();
 	}
 
 }
